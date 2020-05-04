@@ -1,0 +1,1 @@
+../../../Target Support Files/SwaggerClient/SwaggerClient-umbrella.h
